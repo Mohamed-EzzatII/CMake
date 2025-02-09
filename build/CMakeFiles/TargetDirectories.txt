@@ -1,0 +1,3 @@
+/home/ezzat/Downloads/cmake_study/build/CMakeFiles/helloWorld.dir
+/home/ezzat/Downloads/cmake_study/build/CMakeFiles/edit_cache.dir
+/home/ezzat/Downloads/cmake_study/build/CMakeFiles/rebuild_cache.dir
