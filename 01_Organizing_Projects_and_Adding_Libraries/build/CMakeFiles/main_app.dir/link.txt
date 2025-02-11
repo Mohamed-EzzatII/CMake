@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main_app.dir/main.c.o -o main_app  libmath_utils.a 

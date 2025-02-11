@@ -1,0 +1,3 @@
+/home/ezzat/Downloads/cmake_study/tutorial/00_basics/build/CMakeFiles/hello.dir
+/home/ezzat/Downloads/cmake_study/tutorial/00_basics/build/CMakeFiles/edit_cache.dir
+/home/ezzat/Downloads/cmake_study/tutorial/00_basics/build/CMakeFiles/rebuild_cache.dir

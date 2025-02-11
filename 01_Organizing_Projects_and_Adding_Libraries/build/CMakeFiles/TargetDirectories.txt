@@ -1,0 +1,4 @@
+/home/ezzat/Downloads/cmake_study/tutorial/01_Organizing_Projects_and_Adding_Libraries/build/CMakeFiles/math_utils.dir
+/home/ezzat/Downloads/cmake_study/tutorial/01_Organizing_Projects_and_Adding_Libraries/build/CMakeFiles/main_app.dir
+/home/ezzat/Downloads/cmake_study/tutorial/01_Organizing_Projects_and_Adding_Libraries/build/CMakeFiles/edit_cache.dir
+/home/ezzat/Downloads/cmake_study/tutorial/01_Organizing_Projects_and_Adding_Libraries/build/CMakeFiles/rebuild_cache.dir
